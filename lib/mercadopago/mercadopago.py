@@ -1,6 +1,6 @@
 import json
 from json.encoder import JSONEncoder
-import requests
+import requests0 as requests
 
 """
 MercadoPago Integration Library
